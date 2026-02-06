@@ -18,5 +18,5 @@ jobs:
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: willianomiguel
-          AUTO_PUSH: true
           BRANCH_NAME: main
+          AUTO_PUSH: true
