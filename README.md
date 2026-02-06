@@ -106,23 +106,14 @@ const willianDaniel = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-one-amber-35.vercel.app/api?username=willianomiguel&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Willian Daniel github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-one-amber-35.vercel.app/api?username=willianomiguel&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Willian Daniel github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats-one-amber-35.vercel.app/api/top-langs/?username=willianomiguel&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=willianomiguel&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="willianomiguel" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=willianomiguel&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=willianomiguel&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=willianomiguel&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
 
 ## 🚀 O Que Eu Desenvolvo
 
@@ -308,9 +299,10 @@ const technicalPrinciples = {
 
 <div align="center">
   
-### 💡 Quote of the Day
+### 💭 Meu Mantra
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+> *"Automatizar processos não é sobre eliminar pessoas,*  
+> *é sobre liberar seu tempo para resolver problemas que realmente importam."*
 
 </div>
 
