@@ -127,23 +127,6 @@ Meu foco é sempre: **eficiência operacional, impacto real no negócio e ROI me
 
 ---
 
-## 📊 Engenharia em números
-
-Métricas técnicas geradas automaticamente a partir da minha atividade no GitHub.
-
-<p align="center">
-  <img src="./profile-summary-card-output/profile-details.svg" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/repos-per-language.svg" />
-  <img src="./profile-summary-card-output/most-commit-language.svg" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/stats.svg" />
-  <img src="./profile-summary-card-output/productive-time.svg" />
-</p>
 ---
 
 ## 🧭 Atuação técnica recente
